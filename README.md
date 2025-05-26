@@ -25,9 +25,9 @@
 
 ## 📬 Connect with Me
 
-- 🌐 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 🌐 **Portfolio**: (https://remarkable-croquembouche-f57db9.netlify.app)
+- 💼 **LinkedIn**:   (https://www.linkedin.com/in/abu-shakeer-a-w-935233193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 **Email**: (abushakeer2002@gmail.com)
 
 ---
 
