@@ -14,7 +14,7 @@
 <h2 align="center">📌 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abu-Shakeer&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abu-git27&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
@@ -110,18 +110,18 @@ Anomaly Detection using Isolation Forest + Text Similarity
 <h2 align="center">🏗️ Top Projects</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Shakeer&repo=Data_Science_project1_phonepe&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Shakeer&repo=Data_Science_project2_Luxury_Housing_Analytics&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-git27&repo=Data_Science_project1_phonepe&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-git27&repo=Data_Science_project2_Luxury_Housing_Analytics&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Shakeer&repo=Data_Science_project3_Youtube_Monetization_Modeler&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Shakeer&repo=Data_Science_project_4-Amazon-Music-Clustering&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-git27&repo=Data_Science_project3_Youtube_Monetization_Modeler&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-git27&repo=Data_Science_project_4-Amazon-Music-Clustering&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Shakeer&repo=Data_Science_project_5_Multiclass-Fish-Image-Classification&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-Shakeer&repo=Data_Science_project_6_Hyperlocal-News-Anomaly-Detection-and-Source-Attribution&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-git27&repo=Data_Science_project_5_Multiclass-Fish-Image-Classification&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abu-git27&repo=Data_Science_project_6_Hyperlocal-News-Anomaly-Detection-and-Source-Attribution&theme=tokyonight&hide_border=true"/>
 </p>
 
 <hr/>
@@ -154,8 +154,8 @@ Anomaly Detection using Isolation Forest + Text Similarity
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abu-Shakeer&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Shakeer&layout=compact&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abu-git27&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-git27&layout=compact&theme=tokyonight" height="170px"/>
 </p>
 
 <hr/>
@@ -164,7 +164,7 @@ Anomaly Detection using Isolation Forest + Text Similarity
 
 <h2 align="center">🔥 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abu-Shakeer&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abu-git27&theme=react-dark"/>
 </p>
 
 <hr/>
